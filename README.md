@@ -1,2 +1,2 @@
 # WinFormsPaintCalc
-Recreatting Paint and a GPA calculattor for fun cuz.... why not
+Recreatting Paint and a GPA calculator; among some Basic winforms projects for newer devs to follow up..................cuz I can
